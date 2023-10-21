@@ -19,7 +19,7 @@ This is a Node.js API built with GraphQL, Sequelize, and Express. It provides en
     ```bash
       npm run preinstall
     ```
-    To set up the database, you'll need a MySQL client installed on your machine. The client will execute scripts to create the necessary database and tables. If you're using software like XAMPP to connect to your SQL server, you can simply copy the file sql_scripts/create_table_and_database.sql and run it within the software.
+    To set up the database, you'll need a MySQL client installed on your machine. The client will execute scripts to create the necessary database and tables. If you're using software like XAMPP to connect to your SQL server, you can simply copy the file `sql_scripts/create_table_and_database.sql` and run it within the software.
 
 4. Run database scripts to populate sample data (Nessesary for running tests):
    ```sh
