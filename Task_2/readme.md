@@ -1,6 +1,4 @@
-
-```markdown
-# Node.js API with GraphQL and Knex.js
+# Node.js API with GraphQL and Sequelize
 
 This is a Node.js API built with GraphQL, Sequelize, and Express. It provides endpoints for creating and retrieving users and orders. This README provides an overview of the project, installation instructions, usage examples, and testing information.
 
@@ -9,8 +7,8 @@ This is a Node.js API built with GraphQL, Sequelize, and Express. It provides en
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/yourusername/your-node-api.git
-   cd your-node-api
+   git clone https://github.com/aremumahmud/timartbackendtask.git
+   cd timartbackendtask/task2
    ```
 2. Install the project dependencies:
    ```sh
